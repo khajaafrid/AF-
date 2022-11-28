@@ -60,6 +60,10 @@ h1,h2,h3,h4,h5,h6,p {
 .footer .row {
      --bs-gutter-x: 0rem;
 }
+.C:hover {
+    color: #ffa0a4;
+    transition: 3.9s;
+}
 @media screen and (max-width: 576px) {
     .footer .l {
         margin-left: 144px;

@@ -66,7 +66,8 @@ h1,h2,h3,h4,h5,h6,p {
 }
 @media screen and (max-width: 576px) {
     .footer .l {
-        margin-left: 144px;
+        margin-left: 110px;
+        width: 40%
     }
     .footer .k {
         margin-top: 40px;
